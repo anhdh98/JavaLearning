@@ -17,6 +17,6 @@ public class SVPoly {
 		return diemTB;
 	}
 	public void getInfor() {
-		System.out.println("Ho ten: " + hoTen + " \t\t\tDiem TB: " + diemTB);
+		System.out.println("Ho ten: " + hoTen + " \t\tDiem TB: " + diemTB);
 	}
 }
